@@ -1,0 +1,17 @@
+body{
+    /* background-image: linear-gradient(to right,#FFD3A5,#FD6585); */
+    max-height: 100%;
+    max-width: 100%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkred;
+    text-align: center;
+    /* text-decoration: underline; */
+}
+li,li,li{
+    max-width: 100%;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}

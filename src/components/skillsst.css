@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right,#FFD3A5,#FD6585);
+}
+h1{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkred;
+    /* text-decoration: underline; */
+}
+table{
+    max-width: 800px;
+    max-height:700px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 25px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    
+}
+td{
+    font-size:large;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
