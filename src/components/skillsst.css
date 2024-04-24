@@ -1,5 +1,7 @@
+
 body{
     background-image: linear-gradient(to right,#FFD3A5,#FD6585);
+    max-width: 100%;
 }
 h1{
     text-align: center;

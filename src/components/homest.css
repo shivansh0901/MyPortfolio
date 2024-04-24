@@ -1,9 +1,14 @@
+*{
+    max-width: 100%;
+}
+
+
 .container {
     display: flex;
     align-items: center;
     padding-left: 0px;
     justify-content: left;
-    margin-left: 290px;
+    margin-left: 15%;
     
     
 }
@@ -24,6 +29,7 @@
 }
 body{
     background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+    max-width: 100%;
 }
 h2{
     font-family: cursive;

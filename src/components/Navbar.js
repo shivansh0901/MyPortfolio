@@ -1,11 +1,4 @@
 import React from 'react';
-import home from "./Homepage"
-import About from "./About"
-import Portfolio from './Portfolio';
-import Skills from './Skills';
-import Testimonials from './Testimonials';
-import Resume from './Resume';
-import Contact from './Contact';
 import "./Navbarst.css"
 
 class Navbar extends React.Component {
@@ -14,7 +7,7 @@ class Navbar extends React.Component {
         return (
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
   <div className="container-fluid">
-    <a className="navbar-brand" href="#" style={{fontFamily: 'Times New Roman', fontSize: 'x-large'}}>
+    <a className="navbar-brand" href="#Home" style={{fontFamily: 'Times New Roman', fontSize: 'x-large'}}>
       <b>Shivansh Gupta</b>
     </a>
     <button
@@ -72,12 +65,12 @@ class Navbar extends React.Component {
           </a>
           <ul className="dropdown-menu">
             <li>
-              <a className="dropdown-item" href="https://www.linkedin.com/in/shivansh-gupta-774400217/" target='_blank'>
+              <a className="dropdown-item" href="https://www.linkedin.com/in/shivansh-gupta-774400217/" target='_blank' rel="noreferrer">
                 LinkedIn
               </a>
             </li>
             <li>
-              <a className="dropdown-item" href="https://www.instagram.com/shivansh_gpta/" target='_blank'>
+              <a className="dropdown-item" href="https://www.instagram.com/shivansh_gpta/" target='_blank' rel="noreferrer">
                 Instagram
               </a>
             </li>

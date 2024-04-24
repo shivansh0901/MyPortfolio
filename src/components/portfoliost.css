@@ -1,3 +1,6 @@
+*{
+    max-width: 100%;
+}
 body{
     /* background-image: linear-gradient(to right,#FFD3A5,#FD6585); */
     max-height: 100%;

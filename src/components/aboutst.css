@@ -1,6 +1,7 @@
 
 * {
   box-sizing: border-box;
+  max-width: 100%;
 }
 
 
@@ -156,4 +157,7 @@ li,li{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 
+}
+body{
+  max-width: 100%;
 }

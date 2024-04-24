@@ -16,7 +16,7 @@ export default function Portfolio() {
         </u>
       </b>
       <br />
-      <a href='https://github.com/shivansh0901/classification-models-on-Iris-dataset' target='_blank'>🔗 Github Link</a><br/>
+      <a href='https://github.com/shivansh0901/classification-models-on-Iris-dataset' target='_blank' rel="noreferrer">🔗 Github Link</a><br/>
       
       In my project, I conducted a comprehensive analysis titled "Loss Analysis
       and Comparative Evaluation of Classification Models on the Iris Dataset." I explored various classification models applied to the familiar Iris dataset, focusing on different loss functions. The goal was to understand
@@ -36,7 +36,7 @@ export default function Portfolio() {
           ResNet-50
         </u>
       </b>
-      <br /><a href='https://github.com/shivansh0901/pet-face-classification-using-ResNet50' target='_blank'>🔗 Github Link</a>
+      <br /><a href='https://github.com/shivansh0901/pet-face-classification-using-ResNet50' target='_blank' rel="noreferrer">🔗 Github Link</a>
       <br />I developed "CogniPet: An Advanced Pet Face Classification System
       powered by ResNet-50." This project involves leveraging the ResNet-50
       architecture to create an advanced system for classifying pet faces. The focus is on
@@ -71,7 +71,7 @@ export default function Portfolio() {
         </u>
       </b>
       <br />
-      <a href='https://github.com/shivansh0901/text-classification-imdb-reviews' target='_blank'>🔗 Github Link</a>
+      <a href='https://github.com/shivansh0901/text-classification-imdb-reviews' target='_blank' rel="noreferrer">🔗 Github Link</a>
       <br />
       I conducted a project titled "Quantitative Analysis of Sentiments in IMDb
       Reviews: A Text Classification Approach." The study involves applying text

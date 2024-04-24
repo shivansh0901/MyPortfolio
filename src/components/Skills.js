@@ -19,7 +19,7 @@ export default function Skills() {
         </tr>
         <tr>
           <td>
-            <img src={java} style={{ height: 100, width: 100 }}/>
+            <img  src={java} style={{ height: 100, width: 100 }} alt='img 1'/>
           </td>
           <td>
             Comes handy in software development as is the most used language.
@@ -28,7 +28,7 @@ export default function Skills() {
         </tr>
         <tr>
           <td>
-            <img src={cpp} style={{ height: 100, width: 100 }} />
+            <img  src={cpp} style={{ height: 100, width: 100 }} alt='img 2'/>
           </td>
           <td>
             Relevant in software development and competitive coding.
@@ -39,7 +39,7 @@ export default function Skills() {
         </tr>
         <tr>
           <td>
-            <img src={pyton} style={{ height: 100, width: 100 }} />
+            <img  src={pyton} style={{ height: 100, width: 100 }} alt='img 3'/>
           </td>
           <td>
             Recently introduced beginner friendly language which <br /> is used
@@ -49,14 +49,14 @@ export default function Skills() {
         </tr>
         <tr>
           <td>
-            <img src={tf} style={{ height: 100, width: 100 }} />
+            <img  alt='img4' src={tf} style={{ height: 100, width: 100 }} />
           </td>
           <td>Heavily used for machine learning tasks and research.</td>
           <td>Proficient</td>
         </tr>
         <tr>
           <td>
-            <img src={torch} style={{ height: 100, width: 100 }} />
+            <img alt='img5' src={torch} style={{ height: 100, width: 100 }} />
           </td>
           <td>Heavily used for machine learning tasks and research.</td>
           <td>Intermediate</td>

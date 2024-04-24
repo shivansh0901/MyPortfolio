@@ -1,5 +1,5 @@
 import React from 'react'
-import sg from './resources/sg.png'
+// import sg from './resources/sg.png'
 import './homest.css'
 
 export default function Homepage() {
@@ -9,11 +9,11 @@ export default function Homepage() {
   <h2><b><u>Welcome to Shivansh's Personal Website!</u></b></h2><br></br>
   <div className="container">
     <div className="image">
-      <img
+      {/* <img
         src={sg}
         alt="shivansh gupta pic"
         style={{ height: 550, width: 350 }}
-      />
+      /> */}
     </div>
     <div className="text"><br/>
       
